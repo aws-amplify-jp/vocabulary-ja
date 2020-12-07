@@ -1,0 +1,25 @@
+{
+  "name": "@aws-amplify-jp/vocabulary-ja",
+  "version": "0.1.0",
+  "description": "Vocabulary map for AWS Amplify's translations in Japanese",
+  "main": "index.js",
+  "scripts": {
+    "test": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aws-amplify-jp/vocabulary-ja.git"
+  },
+  "keywords": [
+    "amplify"
+  ],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aws-amplify-jp/vocabulary-ja/issues"
+  },
+  "homepage": "https://github.com/aws-amplify-jp/vocabulary-ja#readme",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
