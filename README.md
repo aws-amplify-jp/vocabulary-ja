@@ -7,7 +7,7 @@ Vocabulary dictionary for AWS Amplify's translations
 Install the package via npm registry:
 
 ```console
-$ npm install aws-amplify-vocabularies
+$ npm install @aws-amplify-jp/vocabulary-ja
 ```
 
 Import and put into `I18n` class of `aws-amplify`:
