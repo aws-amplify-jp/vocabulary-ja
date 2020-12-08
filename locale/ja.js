@@ -18,7 +18,7 @@ const AuthStrings = (t) => {
     [t.EMAIL_LABEL]: "メールアドレス *",
     [t.EMAIL_PLACEHOLDER]: "メールアドレスを入力",
     [t.FORGOT_PASSWORD_TEXT]: "パスワードを忘れましたか",
-    [t.LESS_THAN_TWO_MFA_VALUES_MESSAGE]: "利用可能なmfaタイプは2つ未満です",
+    [t.LESS_THAN_TWO_MFA_VALUES_MESSAGE]: "利用可能なMFAタイプは2つ未満です",
     [t.NEW_PASSWORD_LABEL]: "新しいパスワード",
     [t.NEW_PASSWORD_PLACEHOLDER]: "新しいパスワードを入力",
     [t.NO_ACCOUNT_TEXT]: "アカウントがありませんか",
