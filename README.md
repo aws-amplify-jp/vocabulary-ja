@@ -2,6 +2,8 @@
 
 Vocabulary dictionary for AWS Amplify's translations
 
+![Screenshot](assets/screenshot.png)
+
 ## Getting started
 
 Install the package via npm registry:
