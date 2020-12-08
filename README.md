@@ -15,7 +15,7 @@ Import and put into `I18n` class of `aws-amplify`:
 ```js
 import { I18n } from "aws-amplify";
 import { Translations } from "@aws-amplify/ui-components";
-import { ja } from "aws-amplify-vocabularies";
+import { ja } from "@aws-amplify-jp/vocabulary-ja";
 
 I18n.putVocabulariesForLanguage("ja-JP", ja(Translations));
 ```
