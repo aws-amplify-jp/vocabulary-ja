@@ -1,4 +1,4 @@
-# aws-amplify-vocabularies
+# @aws-amplify-jp/vocabulary-ja
 
 Vocabulary dictionary for AWS Amplify's translations
 
