@@ -2,7 +2,7 @@
 
 Vocabulary dictionary for AWS Amplify's translations
 
-![Screenshot](assets/screenshot.png)
+<img src="assets/screenshot.png" width=250 alt="Screenshot" />
 
 ## Getting started
 
