@@ -1,6 +1,6 @@
 {
   "name": "@aws-amplify-jp/vocabulary-ja",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Vocabulary map for AWS Amplify's translations in Japanese",
   "main": "index.js",
   "scripts": {
